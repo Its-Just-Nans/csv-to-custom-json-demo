@@ -2,7 +2,7 @@
 
 Demo/integration of [csv-to-custom-json](https://github.com/Its-Just-Nans/csv-to-custom-json) in browsers !
 
-Link to [csv-to-custom-json repository](https://github.com/Its-Just-Nans/csv-to-custom-json)
+Link to demo : [https://its-just-nans.github.io/csv-to-custom-json-demo/](https://its-just-nans.github.io/csv-to-custom-json-demo/)
 
 Made with [Svelte](https://svelte.dev) !
 
