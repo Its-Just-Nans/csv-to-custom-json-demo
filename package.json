@@ -5,7 +5,8 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "dev": "rollup -c -w"
+        "dev": "rollup -c -w",
+        "build": "rollup -c"
     },
     "keywords": [],
     "author": "n4n5",
